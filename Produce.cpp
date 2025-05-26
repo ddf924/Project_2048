@@ -22,7 +22,6 @@ Produce::Produce()
 	}
 }
 
-
 void Produce::generate_random_tile()
 {
 	srand(time(0));
