@@ -1,0 +1,7 @@
+﻿  Game.cpp
+  main.cpp
+  Produce.cpp
+  正在產生程式碼...
+C:\Users\user\OneDrive\桌面\學校\Visual Studio\小專題作業\project-2048(0)\Produce.cpp(5,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\user\OneDrive\桌面\學校\Visual Studio\小專題作業\project-2048(0)\Produce.cpp(27,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  p2048.vcxproj -> C:\Users\user\OneDrive\桌面\學校\Visual Studio\小專題作業\project-2048(0)\x64\Debug\p2048.exe

@@ -1,0 +1,4 @@
+C:\Users\Lin\Desktop\project\project-2048\x64\Debug\p2048.exe
+C:\Users\student\Desktop\project-2048\project-2048\x64\Debug\p2048.exe
+C:\Users\user\OneDrive\桌面\project-2048(0)\x64\Debug\p2048.exe
+C:\Users\user\OneDrive\桌面\學校\Visual Studio\小專題作業\project-2048(0)\x64\Debug\p2048.exe
