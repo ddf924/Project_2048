@@ -89,3 +89,6 @@ project-2048/
 - [2048 原始遊戲說明](https://play2048.co/)
 - C++ STL 標準函式庫
 - Windows Console Encoding 技巧
+
+![圖片](/圖片1.png)
+![圖片](/圖片2.png)
